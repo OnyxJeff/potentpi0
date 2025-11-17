@@ -1,4 +1,4 @@
-# !/bin/bash
+#!/bin/bash
 # this runs as a @hourly cron task
 # run
 # crontab -e
